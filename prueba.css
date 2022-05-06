@@ -1,0 +1,67 @@
+.container{
+    background-image: url("https://s03.s3c.es/imag/_v0/770x420/f/5/5/490x_770-420-entrevista-trabajo.jpg");
+    background-size: 105rem;
+}
+
+#contenido{
+    height: 800px;
+}
+
+#Desarrollo-Front-End{
+    background-color: coral;
+}
+
+#home{
+    background-color: coral;
+}
+
+#Precios{
+    background-color: coral;
+}
+
+#Caracteristicas{
+    background-color: coral;
+}
+
+#Acerca{
+    background-color: coral;
+}
+
+#unetenos{
+    background-color: coral;
+    margin-left: 50px;
+    border-radius: 20px;
+    width: 100px;
+}
+
+#boton{
+    background-color: rgb(0, 118, 139);
+    margin-left: 600px;
+    border-radius: 20px;
+}
+
+h1{
+    color: black;
+    margin-left: 500px;
+}
+
+h2{
+    margin-left: 550px;
+}
+
+#horas{
+    margin-left: 350px;
+}
+
+#imagen{
+    margin-right: 250px;
+}
+
+#gallery{
+    border-radius: 20px;
+
+}
+
+#textoo{
+    margin-right: 500px;
+}
